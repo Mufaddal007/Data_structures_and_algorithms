@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625655963 source:c:\users\mufaddal darbar\desktop\project dumps\file operations\file operations\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
